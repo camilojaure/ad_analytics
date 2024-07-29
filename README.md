@@ -4,7 +4,7 @@ ad_analytics analyzes and optimizes TikTok ad performance using advanced compute
 ## Project Structure
 
 ad_analytics/
-├── init.py              # Initialization file for the ad_analytics module
+├── __init__.py              # Initialization file for the ad_analytics module
 ├── ad_analysis/             # Contains scripts and notebooks for analyzing ad performance and visual elements
 ├── preprocessing/           # Contains scripts for preprocessing video ads and extracting keyframes
 ├── videos/                  # Directory where video ads are stored for analysis
